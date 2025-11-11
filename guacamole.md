@@ -4,4 +4,4 @@
 * lime
 * salt
 ### Instructions
-First, place avocacdo in a bowl.
+First, place avocado in a bowl. Wash and cut the lemon. 
