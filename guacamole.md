@@ -6,5 +6,6 @@
 * tomato
 * egg
 ### Instructions
-First, place avocado in a bowl. Wash and cut the lemon. 
+First, peel the avocado.
+Then, place avocado in a bowl. Wash and cut the lemon. 
 Squeeze the lemon.
